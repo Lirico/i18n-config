@@ -1,0 +1,7 @@
+{
+  "title": "Lado del cliente",
+  "counter_one": "Uno seleccionado",
+  "counter_other": "{{count}} seleccionado",
+  "counter_zero": "No seleccionado",
+  "back-to-home": "Volver a la pagina principal"
+}
