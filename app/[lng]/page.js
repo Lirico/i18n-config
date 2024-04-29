@@ -10,6 +10,10 @@ export default async function Page({ params: { lng } }) {
       <Link href={`/${lng}/second-page`}>
         {t('to-second-page')}
       </Link>
+      <br />
+      <Link href={`/${lng}/client-page`}>
+        {t('to-client-page')}
+      </Link>
       <Footer lng={lng}/>
     </>
   )
